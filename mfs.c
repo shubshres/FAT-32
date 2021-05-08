@@ -1,11 +1,3 @@
-/*
-   Shubhayu Shrestha
-   UTA ID: 1001724804
-
-   Mohammed Ahmed
-   UTA ID: 1001655176
-*/
-
 // The MIT License (MIT)
 //
 // Copyright (c) 2020 Trevor Bakker
