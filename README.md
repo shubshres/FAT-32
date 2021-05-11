@@ -7,7 +7,7 @@ See Assignment 4 - FAT32.pdf for more assignment details
 
 IMPLEMENTED COMMANDS
 -----------------------------------------------------------
-#open <image name>
+##open <image name>
 -----------------------------------------------------------
  Opens fat32.img file with error handling
 
